@@ -1,10 +1,14 @@
 # PythonFinanceClass
 
-Lecture from: Thomas Renault
+Lecture from: [Thomas Renault](http://thomas-renault.com/)
 
 ## Notebook:
 
-The notebook is available here for read only: 
+Online Code editor from the lecture: [Repl](https://repl.it/@trenault/StockTwits101)
+
+The notebook is available here for read only: [nbviewer](https://nbviewer.jupyter.org/github/thomaspernet/PythonFinanceClass/blob/master/FinancialProject.ipynb)
+
+To open the notebook with Binder (i.e. Online Jupyter notebook): [Online Notebook](https://mybinder.org/v2/gh/thomaspernet/PythonFinanceClass/master?filepath=https%3A%2F%2Fnbviewer.jupyter.org%2Fgithub%2Fthomaspernet%2FPythonFinanceClass%2Fblob%2Fmaster%2FFinancialProject.ipynb)
 
 ## WHAT YOU WILL LEARN ?
 
