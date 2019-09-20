@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+Icon?
+*.pickle
+*.gz
+*.gsheet
+*.csv
+token.pickle
+*.DS_Store
+*.png
+*.pdf
+*.DS_Store
