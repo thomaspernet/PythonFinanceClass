@@ -8,28 +8,21 @@ Online Code editor from the lecture: [Repl](https://repl.it/@trenault/StockTwits
 
 The notebook is available here for read only: [nbviewer](https://nbviewer.jupyter.org/github/thomaspernet/PythonFinanceClass/blob/master/FinancialProject.ipynb)
 
-To open the notebook with Binder (i.e. Online Jupyter notebook): [Online Notebook](https://mybinder.org/v2/gh/thomaspernet/PythonFinanceClass/master?filepath=https%3A%2F%2Fnbviewer.jupyter.org%2Fgithub%2Fthomaspernet%2FPythonFinanceClass%2Fblob%2Fmaster%2FFinancialProject.ipynb)
+To open the notebook with Binder (i.e. Online Jupyter notebook): [Online Notebook](https://mybinder.org/v2/gh/thomaspernet/PythonFinanceClass/master?filepath=FinancialProject.ipynb) Or with [colab](https://drive.google.com/file/d/1qbbXN9nD5R7urt4Eu1kzZcORwK7mFS2y/view?usp=sharing)
 
 ## WHAT YOU WILL LEARN ?
 
-How to extract data from social media (Stocktwits) using an Application
+- How to extract data from social media (Stocktwits) using an Application
 Programming Interface
-
-How to store data using MongoDB and how to query a database in Python
-
-How to use a lexicon-based approach to convert qualitative messages into
+- How to store data using MongoDB and how to query a database in Python
+- How to use a lexicon-based approach to convert qualitative messages into
 quantitative sentiment indicators
-
-How to analyze a text using Natural Language Processing (NLP)
-
-How to use Scikit-learn for sentiment analysis
-
-How to use a lexicon-based approach to convert qualitative messages into
+- How to analyze a text using Natural Language Processing (NLP)
+- How to use Scikit-learn for sentiment analysis
+- How to use a lexicon-based approach to convert qualitative messages into
 quantitative sentiment indicators
-
-How to analyze a text using Natural Language Processing (NLP)
-
-How to use Scikit-learn for sentiment analysis
+- How to analyze a text using Natural Language Processing (NLP)
+- How to use Scikit-learn for sentiment analysis
 
 ## STOCKTWITS & SENTIMENT ANALYSIS
 
