@@ -4,7 +4,6 @@ Icon?
 *.pickle
 *.gz
 *.gsheet
-*.csv
 token.pickle
 *.DS_Store
 *.png
