@@ -10,6 +10,8 @@ The notebook is available here for read only: [nbviewer](https://nbviewer.jupyte
 
 To open the notebook with Binder (i.e. Online Jupyter notebook): [Online Notebook](https://mybinder.org/v2/gh/thomaspernet/PythonFinanceClass/master?filepath=FinancialProject.ipynb) Or with [colab](https://drive.google.com/file/d/1qbbXN9nD5R7urt4Eu1kzZcORwK7mFS2y/view?usp=sharing)
 
+Class finished
+
 ## WHAT YOU WILL LEARN ?
 
 - How to extract data from social media (Stocktwits) using an Application
