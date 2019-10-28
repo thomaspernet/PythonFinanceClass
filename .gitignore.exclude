@@ -1,0 +1,16 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+Icon?
+*.pickle
+*.gz
+*.gsheet
+*.csv
+token.pickle
+*.DS_Store
+*.png
+*.pdf
+*.xlsx
+pivottablejs.html
+Romain_course/
+*/Tensorflow_textbook/
+*/pydata-book-2nd-edition/
