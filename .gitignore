@@ -9,3 +9,6 @@ token.pickle
 *.png
 *.pdf
 *.DS_Store
+
+data/*.json
+data/logs/*.json
